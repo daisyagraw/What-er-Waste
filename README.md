@@ -1,0 +1,2 @@
+# What-er-Waste
+What-er-Waste was completed as a project submission for StarterHacks2018. It urges users to take part in a survey that calculates the amount of water they use per day, and how they use it, and it turn provides suggestions as to how it can be reduced (recommending certain appliances based on daily habits and consumption), to mitigate water wastage and promote the conservation of clean water.
